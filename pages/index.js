@@ -22,7 +22,7 @@ export default function Home() {
   
         <div className={styles.center}>
           <h1 style={{marginRight: '1rem'}}>We are in</h1>
-          <a href='https://github.com/sulsoltanoff/corpspace' target="_blank" className={styles.github} style={{margin: '-0.5rem 0'}}>
+          <a href='https://github.com/sulsoltanoff/corpspace' className={styles.github} style={{margin: '-0.5rem 0'}}>
             <TbBrandGithub size="40"/>
           </a>
           <h1 style={{marginLeft: '1rem'}}>Development</h1>
